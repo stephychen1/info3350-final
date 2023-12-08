@@ -1268,78 +1268,7 @@ But research like hers will almost certainly become more difficult, she said. St
 
 
 
-
-
 Article: 25
-News_Outlet: WSJ
-Title: Abortion-Rights Supporters Prevail in Midterm Ballot Measures
-Author:  Laura Kusisto and Jennifer Calfas
-Publication_Date:November 9, 2022 06:36 pm ET
-Article_Content: Voters passed measures guaranteeing abortion access in California, Michigan and Vermont, and an antiabortion proposal in Republican-leaning Kentucky was defeated. Abortion-rights supporters in Detroit as Michigan voted to end a 1931 ban on the procedure. 
-Voters supported abortion access in a politically diverse mix of states on Tuesday, delivering victories to reproductive-rights advocates on ballot measures in Michigan, California, Vermont and Republican-leaning Kentucky.
-
-The midterm elections provided the first national temperature-taking on voter attitudes toward abortion since the Supreme Court overturned Roe v. Wade in late June, ending federal constitutional protections for the procedure. The decision returned abortion policy to the states, creating a host of new battlegrounds.
-
-Voters in five states considered ballot measures on abortion Tuesday. Democrats also made abortion central to their campaigns in an array of races and notched victories in a number of them, including contests for governor in Michigan and Pennsylvania.
-
-RESULTS OF ABORTION BALLOT MEASURES
-
-
-Michigan voters passed a ballot measure to enshrine reproductive rights in the state constitution and re-elected Democratic Gov. Gretchen Whitmer. Democrats also took control of the state’s legislature for the first time in four decades.
-
-Ms. Whitmer’s Republican opponent, Tudor Dixon, had called the abortion ballot measure a radical proposal.
-
-Michigan’s referendum proposed to amend the state’s constitution to specify that “every individual has a fundamental right to reproductive freedom.” The measure nullifies a 1931 state abortion ban that was largely dormant for the past 50 years. Since the Supreme Court overturned Roe, state courts have been considering whether the Michigan law could be reinstated.
-
-Michigan was a major focus for abortion-rights supporters because it is poised to serve as a destination for patients from nearby states, including Ohio, Indiana and Missouri, where lawmakers are seeking to ban the procedure.
-
-Voters in California and Vermont overwhelmingly passed similar amendments to their state constitutions to include reproductive rights. Vermont’s initiative passed with 77% of the vote with nearly all votes counted, according to the AP. With 42% of California’s votes counted as of Wednesday, 65% were in support.
-
-Both initiatives had been expected to pass in states where there are already limited restrictions on abortion.
-
-
-California state Senate President Pro Tempore Toni Atkins, in glasses, hugged Jodie Hicks, CEO of Planned Parenthood Affiliates of California, at a gathering Tuesday in support of California's constitutional amendment. PHOTO: RICH PEDRONCELLI/ASSOCIATED PRESS
-In Kentucky, with 98% of votes counted, 52% of voters rejected a ballot measure that sought to amend the state constitution to explicitly say that it doesn’t contain a right to abortion. The proposal failed even as Republicans won most congressional races in the state.
-
-The measure’s failure won’t have an immediate practical effect, but its rejection leaves open the door for the state’s Supreme Court to decide that its Constitution includes a right to abortion. The court is expected to hear arguments later this month in a case challenging the state’s abortion ban.
-
-Kentucky voters also declined to elect a vocal Republican abortion opponent who was running for the state Supreme Court. The defeat of the ballot measure in Kentucky is likely to boost abortion-rights groups that hope direct appeals to voters can help them win Roe-like protections in at least some states where Republican supporters outnumber Democrats.
-
-
-Opponents of Kentucky’s ballot measure watched Tuesday in Louisville, Ky., as results were reported. PHOTO: RYAN C. HERMENS/ASSOCIATED PRESS
-The results tell a similar story to what happened in Kansas in August, where voters in the conservative-leaning state soundly rejected a proposed state constitutional amendment that would have ended protections for abortion.
-
-Abortion rights groups said they are discussing options for ballot initiatives in other states in the coming years.
-
-“When we can take this issue out of the hands of politicians and let the people decide directly, we can get some really exciting results,” said Rachel Sweet, the campaign manager for Protect Kentucky Access, who worked to defeat the Kentucky proposal and previously led efforts to defeat Kansas’ proposed amendment.
-
-According to an AP VoteCast survey of more than 90,000 voters, roughly seven in 10 said abortion was an important factor they considered, while one quarter said the issue was the single most important factor in their vote.
-
-For voters who rated abortion as their top issue, roughly 70% voted for Democrats, according to the national survey, conducted Oct. 31 through poll close on Nov. 8 by the AP-NORC Center for Public Affairs Research for The Wall Street Journal, the Associated Press and Fox News.
-
-Abortion opponents cautioned against reading too much into the referendum results, saying they were significantly outspent by abortion-rights groups on the ballot questions.
-
-“The pro-life movement has to do better,” said Frank Cannon, a political strategist for Susan B. Anthony Pro-Life America. “The political element of the pro-life movement has to step up and that is true in every area. Without that, we’re going to be in trouble.”Campaigning on abortion rights didn’t help some Democrats, including Georgia gubernatorial candidate Stacey Abrams, who lost her challenge to Republican incumbent Gov. Brian Kemp.
-
-In Ohio, Republicans swept three races for the state’s Supreme Court. The GOP candidates had taken the position that life begins at fertilization, in response to a questionnaire from a group that opposes abortion.
-
-A vote in Montana on a narrower abortion-related ballot measure was still too close to call Wednesday. The measure raises the possibility of criminal charges for healthcare providers unless they take “all medically appropriate and reasonable actions to preserve the life” of a fetus born alive, including after an attempted abortion—a rare occurrence, according to the Centers for Disease Control and Prevention.
-
-Before the midterms, no state had adopted a constitutional amendment that enshrines protections for abortion. Sixteen states and Washington, D.C., have written abortion rights into state statutes. A constitutional amendment further protects abortion rights, supporters say.
-
-Alabama, Louisiana, Tennessee and West Virginia have adopted constitution amendments in recent years explicitly saying their state constitutions don’t protect abortion rights.
-
-ABORTION AS AN ELECTION ISSUE
-
-Abortion has become a much bigger motivating issue among Democrats since the Supreme Court ruled that there is no constitutional right to the procedure, according to a survey of about 115,000 voters, compiled by the Associated Press. See the full results of the AP VoteCast survey here.
-
-Percentage of respondents that said abortion played a role in how they voted
-
-
-
-
-
-Article: 26
 News_Outlet: WSJ
 Title: Oklahoma Legislature Passes Near-Total Ban on Abortion
 Author:  Laura Kusisto and Jennifer Calfas
@@ -1390,7 +1319,7 @@ Kristan Hawkins, president of Students for Life Action, a nonprofit youth organi
 
 
 
-Article: 27
+Article: 26
 News_Outlet: WSJ
 Title: Doctors Are Rethinking Careers After States Restrict Abortions
 Author:  Julie Wernau and Kris Maher 
@@ -1432,7 +1361,7 @@ Ms. Burkhart, president of Wellspring Health Access, is also part of a group tha
 
 
 
-Article: 28
+Article: 27
 News_Outlet: WSJ
 Title: 66 Clinics No Longer Provide Abortions After Roe Overturned
 Author:  Jennifer Calfas
@@ -1465,7 +1394,7 @@ Representatives at national antiabortion groups said they believe the report is 
 
 
 
-Article: 29
+Article: 28
 News_Outlet: WSJ
 Title: Abortion-Pill Orders Increase, Even in Restrictive States
 Author:   Brianna Abbott and Juan Montes 
@@ -1505,7 +1434,7 @@ Just The Pill, which provides abortion pills in four states, said it is receivin
 
 
 
-Article: 30
+Article: 29
 News_Outlet: WSJ
 Title: Wisconsin Abortion Clinics Prepare to Resume Appointments
 Author:  Jennifer Calfas
@@ -1559,7 +1488,7 @@ Resuming services at two clinics in liberal counties is an incremental approach 
 
 
 
-Article: 31
+Article: 30
 News_Outlet: WSJ
 Title: North Carolina Passes 12-Week Abortion Ban
 Author:  Jennifer Calfas and Laura Kusisto
@@ -1615,7 +1544,7 @@ The state saw one of the largest increases in abortion since the Supreme Court�
 
 
 
-Article: 32
+Article: 31
 News_Outlet: WSJ
 Title: Abortion Providers in Illinois, Colorado and Florida Prepare for Patient Influx if Roe Is Overturned
 Author:  Julie Wernau, Dan Frosch and Jennifer Calfas
@@ -1656,7 +1585,7 @@ A spokeswoman for Florida Gov. Ron DeSantis said the Republican “has always be
 
 
 
-Article: 33
+Article: 32
 News_Outlet: WSJ
 Title: More Women Requesting Abortion Pills Outside Formal Channels, Study Finds
 Author:  Laura Kusisto
@@ -1696,7 +1625,7 @@ Dr. Aiken co-wrote a separate study of complications among those who self-manage
 
 
 
-Article: 34
+Article: 33
 News_Outlet: WSJ
 Title: Oklahoma Enacts Toughest Abortion Ban in Nation
 Author:  Laura Kusisto and Jennifer Calfas
@@ -1735,7 +1664,7 @@ A leaked draft of an opinion overturning Roe v. Wade could change before it’s 
 
 
 
-Article: 35
+Article: 34
 News_Outlet: WSJ
 Title: Oklahoma and Texas Laws, Roe v. Wade Leak Put Focus on Abortion Access
 Author:  Jennifer Calfas, Taylor Umlauf and Josh Ulick
@@ -1769,7 +1698,7 @@ A number of states have additional abortion bans on the books that predate Roe v
 
 
 
-Article: 36
+Article: 35
 News_Outlet: WSJ
 Title: Uncertainty Over Abortion Access Grows After Supreme Court Ruling
 Author:  Laura Kusisto ,Jennifer Calfas and Deanna Paul
@@ -1835,7 +1764,7 @@ In Washington, D.C., Democratic lawmakers previewed possible plans. In a letter 
 
 
 
-Article: 37
+Article: 36
 News_Outlet: WSJ
 Title: Veterans Affairs to Provide Abortion Services for Health Dangers, Rape and Incest
 Author:  Ben Kesling
@@ -1878,7 +1807,7 @@ A federal judge issued an initial ruling that sided with the department and bloc
 
 
 
-Article: 38
+Article: 37
 News_Outlet: WSJ
 Title: New Abortion Lawsuits Continue in States Cutting Access
 Author:  Laura Kusisto and Jennifer Calfas 
@@ -1917,7 +1846,7 @@ Louisiana Attorney General Jeff Landry sent a letter to the state’s medical so
 
 
 
-Article: 39
+Article: 38
 News_Outlet: WSJ
 Title: Abortion Features Prominently in Midterm Elections After Demise of Roe v. Wade
 Author:  Laura Kusisto and Jennifer Calfas
@@ -1979,7 +1908,7 @@ The Kentucky Supreme Court is expected to hear arguments later this month in a c
 
 
 
-Article: 40
+Article: 39
 News_Outlet: WSJ
 Title: Pennsylvania Lawmakers Pave Way for Antiabortion Measure on Ballot
 Author:  Laura Kusisto and Jennifer Calfas
@@ -2014,7 +1943,7 @@ Louisiana Attorney General Jeff Landry said he would continue to defend the ban.
 
 
 
-Article: 41
+Article: 40
 News_Outlet: WSJ
 Title: Abortion Opponents Consider How Far to Press After End of Roe v. Wade
 Author:  Laura Kusisto
@@ -2074,7 +2003,7 @@ Ms. Hawkins said she found the governor’s approach underwhelming. “Here’s 
 
 
 
-Article: 42
+Article: 41
 News_Outlet: WSJ
 Title: Louisiana House Stops Abortion Bill That Allowed Murder Charges Against Women
 Author: Laura Kusisto 
@@ -2107,7 +2036,7 @@ Gov. John Bel Edwards, an antiabortion Democrat, on Wednesday said he wouldn’t
 
 
 
-Article: 43
+Article: 42
 News_Outlet: WSJ
 Title: States Weigh Abortion Rules After Legislation Push Stalls in Washington
 Author:  Catherine Lucey and Laura Kusisto
@@ -2157,7 +2086,7 @@ President Biden has sought to draw a contrast with Republican policies. Mr. Bide
 
 
 
-Article: 44
+Article: 43
 News_Outlet: WSJ
 Title: Ohio Vote Is Another Warning to GOP on Abortion
 Author:  Laura Kusisto and Aaron Zitner
@@ -2203,7 +2132,7 @@ Nonetheless, Frank Pavone, national director of Priests for Life, acknowledged i
 
 
 
-Article: 45
+Article: 44
 News_Outlet: WSJ
 Title: Doctors Struggle With State Abortion Restrictions at Odds With Federal Law
 Author: Melanie Evans
@@ -2268,7 +2197,7 @@ In addition, some states have multiple laws restricting abortion that can provid
 
 
 
-Article: 46
+Article: 45
 News_Outlet: WSJ
 Title: Abortion-Rights Bill Backed by Democrats Fails in Senate
 Author:  Siobhan Hughes and Eliza Collins
@@ -2334,7 +2263,7 @@ Sen. Ron Johnson (R., Wis.), who is up for re-election, said he expected abortio
 
 
 
-Article: 47
+Article: 46
 News_Outlet: WSJ
 Title: Abortion Activists Chart Path Forward as They Mark Roe v. Wade’s 50th Anniversary
 Author: Jennifer Calfas 
@@ -2377,7 +2306,7 @@ Abortion-rights groups and antiabortion activists are focused on the coming elec
 
 
 
-Article: 48
+Article: 47
 News_Outlet: WSJ
 Title: Michigan Governor, Abortion-Rights Groups Challenge Dormant State Abortion Ban
 Author: Laura Kusisto 
@@ -2424,7 +2353,7 @@ Colorado and New Jersey recently passed legislation establishing a right under s
 
 
 
-Article: 49
+Article: 48
 News_Outlet: WSJ
 Title: Kansas Vote Signals Abortion Could Emerge as Top Political Issue in November
 Author:  Laura Kusisto, Aaron Zitner and Jennifer Calfas
@@ -2534,6 +2463,47 @@ She hopes abortion-rights groups can pull off more victories and expand access i
 
 
 
+
+Article: 50
+News_Outlet: WSJ
+Title: New York Attorney General Pushes for State Abortion Fund
+Author: Deanna Paul and Jimmy Vielkind
+Publication_Date: May 9, 2022 06:51 pm ET
+Article_Content: Attorney General Letitia James and state lawmakers say New York should pay for abortion access for low-income residents and out-of-state women. New York Attorney General Letitia James announcing a state abortion proposal Monday. PHOTO: SPENCER PLATT/GETTY IMAGES
+New York Attorney General Letitia James and state lawmakers on Monday called for the creation of a state fund to pay for abortion access for both New Yorkers and out-of-state residents who could travel to the state for the procedure.
+
+Ms. James, a Democrat, said the state should continue to be a leader in providing abortion access if the Supreme Court overrules Roe v. Wade, the 1973 decision that established a constitutional right to an abortion.
+
+New York already is among the states providing abortion access to the highest number of out-of-state residents, Ms. James said at a news conference. In 2019, 9% of abortions performed in New York were for women from other states, according to federal government data.
+
+“Make no mistake: New York will not go back to the dark times when people were unable to control their own bodies or make their own choices,” she said.
+
+Assemblywoman Jessica González-Rojas, a Democratic sponsor of the proposal who appeared with the attorney general, said the fund should be set at $50 million.
+
+The proposal comes as states on both sides of the abortion debate are girding for a blockbuster Supreme Court decision on abortion rights by the end of June, in a case from Mississippi. An early draft majority opinion by Justice Samuel Alito, leaked last week, indicated the court was preparing to overturn Roe, a move that would give states wide latitude to restrict or allow abortion as they see fit. The court later cautioned that the draft was far from final.
+
+The New York proposal would establish a program to provide funding through the state Department of Health to abortion providers and nonprofit organizations, aimed at providing access to the procedure, as well as travel and child care, for uninsured and low-income women.
+
+If the Supreme Court overturns Roe, roughly half the states could eliminate or severely restrict abortions within their borders.
+
+The Roe v. Wade Opinion Draft: How the Supreme Court Decides Cases
+
+A leaked draft of an opinion overturning Roe v. Wade could change before it’s finalized. WSJ explains how the Supreme Court makes decisions and what could follow if the right to an abortion is rescinded. Illustration: Jacob Reynolds
+Other Democratic-led states have passed or are considering proposals similar to New York’s. Oregon’s legislature this spring allocated $15 million to go toward expanding abortion access around the state, including travel expenses and lodging. Lawmakers in California and Massachusetts have proposed similar funding to help low-income women access abortion.
+
+After last week’s Supreme Court leak, New York Democrats who control the state Assembly and Senate said they would take action to further strengthen abortion rights. Neither committed to specific proposals, including the legislation touted Monday by Ms. James.
+
+A spokesman for Senate Majority Leader Andrea Stewart-Cousins, a Democrat from Yonkers, said senators plan to take up a package of bills that would provide additional funding, protections and help for women seeking abortions. A spokesman for Assembly Speaker Carl Heastie, a Democrat from the Bronx, said he was “horrified by the news of the potential decision” and discussing legislative options with his colleagues.
+
+Gerard Kassar, chairman of the New York State Conservative Party, said he opposed Ms. James’s proposal.
+
+“That is an incredible misuse of government funds, and as such, she might want to spend more time focusing on the issues of most concern to New Yorkers: crime, the economy and inflation,” he said.
+
+New York decriminalized abortion in 1970, three years before the Roe decision. A state law enacted in 2019 allows abortion in the first 24 weeks of pregnancy or later, if doctors determine it necessary for the health of the mother.
+
+Gov. Kathy Hochul, a Democrat, vowed that New York would be a safe harbor for women seeking abortions. She said she would support amending the state constitution to further cement the right to an abortion. An amendment would take more than a year to enact. It must be approved in a popular referendum and by two successively elected crops of legislators.
+
+Ms. James also has voiced support for a constitutional amendment. A spokeswoman for Ms. Hochul said she was exploring all of her options.
 
 
 
