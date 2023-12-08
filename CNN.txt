@@ -164,7 +164,7 @@ Article_Content: CNN  — Though a growing number of companies are offering to
 
 
 Article: 19
-News_Outlet: CNN_ KFF Health News
+News_Outlet: CNN
 Title:Abortion coverage is limited or unavailable at a quarter of large workplaces
 Author: Rachana Pradhan
 Publication_Date: Published 6:31 AM EDT, Mon October 23, 2023
